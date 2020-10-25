@@ -28,14 +28,14 @@ function johnLennonFacts(arr) {
 }
 console.log(johnLennonFacts(facts));
 
-function iLoveTheBeatles(num) {
-  let love = [];
-  do {
-    love.push("I love the Beatles!");
-  }
-  while (num < 15);
-  num++;
-  return love;
-}
+// function iLoveTheBeatles(num) {
+//   let love = [];
+//   do {
+//     love.push("I love the Beatles!");
+//   }
+//   while (num < 15);
+//   num++;
+//   return love;
+// }
 
-console.log(iLoveTheBeatles(10));
+// console.log(iLoveTheBeatles(10));
